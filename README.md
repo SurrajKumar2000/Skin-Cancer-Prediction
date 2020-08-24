@@ -2,8 +2,8 @@
 
 
 
-Skin cancer is the most common human malignancy and is primarily diagnosed visually and it involves a sheer amount of time and technicalities.
-Deep learning can automate this diagnosis process,thus eliminating human error and saving million of  lives.
+Skin cancer the most common human malignancy and is primarily diagnosed visually and it involves a sheer amount of time and technicalities.
+Deep learning can automate this diagnosis process,thus eliminating human error and saving million of lives.
 
 -Deep learning has been shown to produce competitive results in medical diagnosis
 
@@ -23,9 +23,7 @@ Deep learning can automate this diagnosis process,thus eliminating human error a
 ### For this project we used the HAM10000 ("Human Against Machine with 10000 training images") dataset
 
 ### And used the EfficientNetB3 Architecture  
-       
-       
-##Conclusion:
+      
 ## Our model was abel to produce an accuracy score over 85%.
 
 
