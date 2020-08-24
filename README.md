@@ -9,13 +9,13 @@ Deep learning can automate this diagnosis process,thus eliminating human error a
 
 -This project is built to detect skin cancer at an early stage using deep convolutional neural networks.
 
--This model detects 7 categories of skin cancer:
+-This model can be used to detect nearly 7 categories of skin cancer:
 
 
 1. Melanocytic nevi 
 2. Melanoma
 3. Benign keratosis-like lesions
-4. Basal cell carcinoma
+4. Basal cell carcinoma - most common form of skin-cancer.
 5. Actinic keratoses
 6. Vascular lesions
 7. Dermatofibroma. 
@@ -23,7 +23,9 @@ Deep learning can automate this diagnosis process,thus eliminating human error a
 ### For this project we used the HAM10000 ("Human Against Machine with 10000 training images") dataset
 
 ### And used the EfficientNetB3 Architecture  
-
-## Our model was abel to produce an accuracy score over 80%
+       
+       
+##Conclusion:
+## Our model was abel to produce an accuracy score over 85%.
 
 
